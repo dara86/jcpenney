@@ -2,3 +2,4 @@ Portfolio assignment for Representing and Manipulating Data course. To showcase 
 
 Given 5 files 'products.csv', 'users.csv', 'reviews.csv', 'jcpenney_reviewers.json', 'jcpenney_products.json'
 
+NOTE: Orignially worked on assignment notebook and saved to OneDrive, hence why initial upload has already been worked on.
